@@ -1,0 +1,3 @@
+f = (awg.salary/dollar.rate)/barreprice
+csv
+date, month awg.salary, dollar.rate, date of the rate, oil price, month of price
